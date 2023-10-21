@@ -1,14 +1,14 @@
 body { 
     background-image: url("image/oceanchess.jpg");
 }
-.Nom {
+#nom {
   font-family: "Sofia", sans-serif;
   color: aqua;
   font-size: 52px;
   text-align: center;
   
 }
-.Fonction {
+#fonction {
   text-align: center;
   font-family: "Sofia", sans-serif;
   color:aliceblue;
