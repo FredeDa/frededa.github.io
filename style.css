@@ -1,0 +1,17 @@
+body { 
+    background-image: url("image/oceanchess.jpg");
+}
+.Nom {
+  font-family: "Sofia", sans-serif;
+  color: aqua;
+  font-size: 52px;
+  text-align: center;
+  
+}
+.Fonction {
+  text-align: center;
+  font-family: "Sofia", sans-serif;
+  color:aliceblue;
+  font-size: 36px;
+}
+
