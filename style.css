@@ -1,5 +1,5 @@
 body { 
-    background-image: url("img/oceanchess.jpg");
+    background-color: black;
 }
 #nom {
   font-family: "Sofia", sans-serif;
@@ -14,4 +14,6 @@ body {
   color:aliceblue;
   font-size: 36px;
 }
-
+a {
+	color : white;
+}
