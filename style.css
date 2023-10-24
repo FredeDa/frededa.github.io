@@ -1,19 +1,33 @@
 body { 
-    background-color: black;
+    background-color: #f5f7fa;
 }
-#nom {
-  font-family: "Sofia", sans-serif;
-  color: aqua;
-  font-size: 52px;
-  text-align: center;
+
+#avatar-row {
+	margin : 1em;
+}
+#frede {
+	
+	font-family: 'Libre Baskerville', serif;
+	color: #591fce;
+	font-size: 52px;
+	text-align: left;
   
 }
-#fonction {
-  text-align: center;
-  font-family: "Sofia", sans-serif;
-  color:aliceblue;
+#moi {
+  text-align: left;
+  font-family: 'Libre Baskerville', serif;
+  color:#7c73e6;
   font-size: 36px;
+}
+.like {
+	margin-top : 3em;
 }
 a {
 	color : white;
+}
+
+.custom_navbar {
+	background-color: #7c73e6;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 20px;
 }
